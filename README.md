@@ -9,7 +9,7 @@ It seems you've found one of my little corners of the web.
 
 I work full-time as a MS Dynamics 365 Finance and Operations Developer <br/>
 👨‍💻 but I'm also a C# enthusiast <br/>
-📚 ...and an [editor](https://github.com/PhoenixWyllow#editing-credits) of adult fantasy, sci-fi and grimdark novels and stories <br/>
+📚 ...and an [editor](#editing-credits) of adult fantasy, sci-fi and grimdark novels and stories <br/>
 📸 ...and a hobbyist photographer <br/>
 🔭 ...who studied Physics and Astronomy <br/>
 ✍️ ...and I write sporadic thoughts on [my blog](https://lunavisions.altervista.org) <br/>
