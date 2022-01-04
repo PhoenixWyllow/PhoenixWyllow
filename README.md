@@ -21,7 +21,7 @@ I work full-time as a MS Dynamics 365 Finance and Operations Developer <br/>
   - The Harbinger of Freedom (available on Amazon, Kindle, Kobo, Apple, etc)
   - Umbra (on the website linked above)
 
-If you're interested, I have a separate email for that: russell.editing@outlook.com
+If you're interested in having your work edited by me, I have a separate email for that: russell.editing@outlook.com
 
 ## Nerd by day, Music lover by night 
 
