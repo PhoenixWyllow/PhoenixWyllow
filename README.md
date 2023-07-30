@@ -8,7 +8,7 @@ It seems you've found one of my little corners of the web.
 
 **I'm Will.**
 
-I work full-time as a MS Dynamics 365 Finance and Operations Developer \
+I work full-time as a Trainer on MS products and as a MS Dynamics 365 F&O Developer \
 👨‍💻 but I'm also a C# enthusiast \
 📚 ...and an [editor](#editing-credits) of adult fantasy, sci-fi and grimdark novels and stories \
 📸 ...and a hobbyist photographer \
